@@ -3,3 +3,4 @@ Extractor
 firmware-extractor.sh - Used to extract the .img files from the zipped firmwares and also the apps
 binary-extractor.sh - Used to extract the binaries from the .img files
 apex-extractor.sh - Extract binaries from apex files
+binaries_extractor_from_apk.sh - Extract binaries from .apk files
