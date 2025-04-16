@@ -1,4 +1,4 @@
-## Firmware Analysis Toolkit
+## VR Firmware Analysis
 
 This repository contains scripts and utilities designed to automate firmware extraction and binary collection for Oculus and Pico devices.
 
