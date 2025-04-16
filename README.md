@@ -22,4 +22,7 @@ This repository contains scripts and utilities designed to automate firmware ext
     
 - **`binaries_extractor_from_apk.sh`**
   - **Purpose**: Extracts native binaries (e.g., `.so` files) from APK files.
+    
+- **`results`**
+  - Contains some sample results
 ---
