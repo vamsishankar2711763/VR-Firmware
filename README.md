@@ -24,5 +24,13 @@ This repository contains scripts and utilities designed to automate firmware ext
   - **Purpose**: Extracts native binaries (e.g., `.so` files) from APK files.
     
 - **`results`**
-  - Contains some sample results
+  - Contains some sample results.
+    
+- **`RQ1`**
+  - Contains RQ1 related scripts.
+- **`RQ2`**
+  - Contains RQ2 related scripts.
+- **`RQ3`**
+  - Contains RQ3 related scripts.
+
 ---
