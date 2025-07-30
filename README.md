@@ -6,7 +6,7 @@ This repository contains scripts and utilities designed to automate firmware ext
 
 #### Scraper
 - **Purpose**: Scrapes firmware files directly from the Oculus firmware hosting site.
-- **Note**: For Pico firmwares, binaries have been manually collected and are not scraped.
+- **Note**: For Pico firmwares, files have been manually collected and are not scraped.
 
 ####  Extractor Scripts
 
